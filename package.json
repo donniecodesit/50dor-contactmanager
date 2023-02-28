@@ -2,7 +2,7 @@
   "name": "18contactlist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://donniecodesit.github.io/react-contactmanager",
+  "homepage": "https://donniecodesit.github.io/50dor-contactmanager",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
