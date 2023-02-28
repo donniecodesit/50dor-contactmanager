@@ -1,5 +1,5 @@
-## About This App 
-This is a React Contact Manager Mock Application built with React during Day 18 of a 50 Days of React Udemy Course.
+## About This App
+React project made during Day 18 of "50 Days of React" by Sufa Digital Media on Udemy.
 It is a mock application which allows you to save contacts names and numbers to a temporary list. Super simple app!
 
 ## How To Install & Run
